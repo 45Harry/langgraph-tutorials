@@ -21,7 +21,7 @@ This repository contains a collection of hands-on tutorials and example scripts 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/45Harry/langgraph-tutorials.git
    cd langgraph-tutorials
    ```
 
